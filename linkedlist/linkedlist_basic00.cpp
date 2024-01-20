@@ -102,6 +102,7 @@ int main()
     l1.print();
      cout << "insertion at the begnning" << endl;
      l1.insertionatbegnning(new Node(14));
+     cout<<"this is 11 harzar line of electricity";
     l1.print();
     // cout << "insertion at the End" << endl;
     // l1.insertionAtTheEnd(new Node(18));
